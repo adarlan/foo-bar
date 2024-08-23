@@ -8,6 +8,7 @@ Estes foram os topicos abordados:
 
 - Demonstracao do Git
 - Demonstracao do GitHub
+- Um bocado de coisa
 
 ## Tabela
 
